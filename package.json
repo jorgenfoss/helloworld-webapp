@@ -1,0 +1,19 @@
+{
+  "name": "mywebapp",
+  "version": "1.0.0",
+  "description": "hello world",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorgenfoss/helloworld-webapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jorgenfoss/helloworld-webapp/issues"
+  },
+  "homepage": "https://github.com/jorgenfoss/helloworld-webapp#readme"
+}
